@@ -75,7 +75,7 @@ It includes four main metrics: total customers, customer churn rate, customers l
 
 The dashboard also compares churn rates across contract types, internet services, payment methods, customer tenure, technical support, and online security.
 
-**[View My Interactive Tableau Dashboard](https://public.tableau.com/app/profile/maaz.foshanji/viz/Customer_Churn_Retention_Analysis/CustomerChurnRetentionDashboard)**
+**[Tableau Dashboard](https://public.tableau.com/app/profile/maaz.foshanji/viz/Customer_Churn_Retention_Analysis/CustomerChurnRetentionDashboard)**
 
 ![Customer Churn Dashboard](Customer_Churn_Dashboard.png)
 
